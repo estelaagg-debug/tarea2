@@ -1,0 +1,29 @@
+/*
+   Hoja de Estilos PRACTICA7.CSS
+*/
+
+h2{
+    text-align: center;
+	color: rgba(204, 158, 43, 0.99);
+	
+}
+
+header{
+    background-color: rgba(204, 158, 43, 0.99);
+    text-align: center;
+    padding: 20px;
+}
+
+section{
+    width:33%;
+    float: left;
+	
+}
+
+footer{
+    background-color: rgba(204, 158, 43, 0.99);
+	color: white;
+    text-align: center;
+    padding: 20px;
+    clear: both;
+}
